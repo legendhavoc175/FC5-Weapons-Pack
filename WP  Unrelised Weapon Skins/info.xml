@@ -1,0 +1,76 @@
+<Info>
+  <DefaultInclude>false</DefaultInclude>
+  <Description>WP: Unrelised Weapon Skins
+  Unrelised weapons skins for weapons presented in the store.
+
+  Skins added list:
+  
+  Rifle: 45/70
+  Sinper Rifles: AR-CL, 308Carbine, SA-50, MBP.50
+  
+  
+  [color=lightgreen]Author: VGoth[/color]</Description>
+  <OwnCategory>Weapons Pack</OwnCategory>
+  <Dependencies>Patch dbt</Dependencies>
+  <!--
+  <Pairs>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[9015245017569460.ark.fcb]]></Source>
+      <Target><![CDATA[entityarchetypeslibrary\9015245017569460.ark.fcb]]></Target>
+    </Pair>
+  </Pairs>
+  -->
+  <Pairs>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_ar_c_gold_stand.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_gold_stand.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_ar_c_cranb_vodka.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_cranb_vodka.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_ar_c_cult.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_cult.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_ar_c_silver_carbon.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_silver_carbon.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_308_hot_honeycomb.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_308_hot_honeycomb.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_308_purple.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_308_purple.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_sa50_rob_revenge.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_sa50_rob_revenge.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_sa50_the_stop_sign.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_sa50_the_stop_sign.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_hti50_whie_in_gold.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_hti50_whie_in_gold.xbt]]></Target>
+    </Pair>
+    <Pair>
+      <FromDatFile />
+      <Source><![CDATA[wpn_hit50_pink.xbt]]></Source>
+      <Target><![CDATA[ui\resources\textures\06_icons\shop\weapons_skins\wpn_hit50_pink.xbt]]></Target>
+    </Pair>
+  </Pairs>
+</Info>
