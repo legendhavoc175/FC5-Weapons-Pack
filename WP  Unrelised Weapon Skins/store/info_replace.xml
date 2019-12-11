@@ -1,0 +1,419 @@
+<InfoReplace>  
+  <Replaces>
+    <Replace RequiredFile="patch.dbt.fcb">
+        <!-- templateValueGridFilter: Section Prestige = 07EBABEC58072000; Section Standard = 69DBADF256072000 -->
+        <!-- templateValueOnline: @Club = 01 -->
+        <!--wpn_ar15_prem_02.xbt-->
+      <object hash="1F027DA1">
+        <!-- Sniper Rifles -->
+        <!-- AR-CL -->              
+        <template
+          id="StoreItem"
+          templateValueID="9015269000000501"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\Premium_Skin_Launch\AR-CL_Skin_ulc01"
+          templateValueNameId="828606"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_silver_carbon.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="B4D8D54C51072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+        <template
+          id="StoreItem"
+          templateValueID="9015269000000502"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\Premium_Skin_Launch\AR-CL_Skin_uni007"
+          templateValueNameId="846648"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar15_prst.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="B4D8D54C51072000"
+          templateValueBuyValue="500"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="69DBADF256072000"
+          />
+        <template
+          id="StoreItem"
+          templateValueID="9015269000000503"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\Premium_Skin_Launch\AR-CL_Skin_cult"
+          templateValueNameId="-1"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_cult.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="B4D8D54C51072000"
+          templateValueBuyValue="500"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="69DBADF256072000"
+          />
+        <template
+          id="StoreItem"
+          templateValueID="9015269000000504"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\Premium_Skin_Launch\AR-CL_Skin_Prem01"
+          templateValueNameId="870541"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_gold_stand.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="B4D8D54C51072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+        <template
+          id="StoreItem"
+          templateValueID="9015269000000505"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\Premium_Skin_Launch\AR-CL_Skin_Prem02"
+          templateValueNameId="870542"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_ar_c_cranb_vodka.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="B4D8D54C51072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+
+          <!-- 308Carbine -->
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000506"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\308Carbine_Skin\308Carbine_Skin_Purple_Mountain"
+          templateValueNameId="850754"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_308_purple.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="CD71985B57072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000507"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\308Carbine_Skin\308Carbine_Skin_Hot_Honeycomb"
+          templateValueNameId="850752"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_308_hot_honeycomb.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="CD71985B57072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <!-- SA-50 -->
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000508"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\SA50_Skin\SA50_Skin_Rob_Revenge"
+          templateValueNameId="850778"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_sa50_rob_revenge.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="9352DDFA53072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000509"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\SA50_Skin\SA50_Skin_The_Stop_Sign"
+          templateValueNameId="850782"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_sa50_the_stop_sign.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="9352DDFA53072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <!-- MBP .50 -->
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000510"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\HTI50_Skin\HTI50_Skin_White_In_Gold"
+          templateValueNameId="850764"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_hti50_whie_in_gold.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="2E9C81E352072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000511"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\HTI50_Skin\HTI50_Skin_F-uchsia"
+          templateValueNameId="850766"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_hit50_pink.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="2E9C81E352072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <!-- Rifles -->
+          <!-- 45/70 -->
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000401"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\45_70_Skin\45_70_Skin_Winter_Midnight"
+          templateValueNameId="850682"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_4570_prem_ht.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="9BB713F546072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          <template
+          id="StoreItem"
+          templateValueID="9015269000000402"
+          templateValueObjectName="Databases\UI\ShoppingItems\WeaponSkins\45_70_Skin\45_70_Skin_The_Pledge_of_Allegiance"
+          templateValueNameId="850684"
+          templateValueIconPath="ui\resources\textures\06_icons\shop\weapons_skins\wpn_4570_prem_ht.xbt"
+          templateValueAttachmentType="06000000"
+          templateValueWeaponId="9BB713F546072000"
+          templateValueBuyValue="1200"
+          templateValueShopType="1D23AAF256072000"
+          templateValueTabFilter="F3D9ADF256072000"
+          templateValueGridFilter="07EBABEC58072000"
+          />
+          
+      </object>
+      
+
+      <object hash="BB96607D">
+        <primaryKey hash="8EDB0295">351020BB55072000</primaryKey> <!-- Databases\UI\ShoppingItems\ShoppingItemsCollection -->
+        <object hash="B31066E2">
+          <template id="ItemCollection" templateValueID="9015269000000501" />
+          <template id="ItemCollection" templateValueID="9015269000000502" />
+          <template id="ItemCollection" templateValueID="9015269000000503" />
+          <template id="ItemCollection" templateValueID="9015269000000504" />
+          <template id="ItemCollection" templateValueID="9015269000000505" />
+          <template id="ItemCollection" templateValueID="9015269000000506" />
+          <template id="ItemCollection" templateValueID="9015269000000507" />
+          <template id="ItemCollection" templateValueID="9015269000000508" />
+          <template id="ItemCollection" templateValueID="9015269000000509" />
+          <template id="ItemCollection" templateValueID="9015269000000510" />
+          <template id="ItemCollection" templateValueID="9015269000000511" />          
+          <template id="ItemCollection" templateValueID="9015269000000401" />
+          <template id="ItemCollection" templateValueID="9015269000000402" />
+        </object>
+      </object>
+
+    </Replace>
+  </Replaces>
+
+  <Templates>
+    <template id="StoreItem">
+      <object hash="BB96607D">
+        <field hash="8EDB0295" type="Id64" templateValue="ID" />
+        <field hash="D91FFFD3" type="String" templateValue="ObjectName"/>
+        <field hash="61FC6B02" type="BinHex">00</field>
+        <field hash="CF68E402" type="BinHex">4353686F7070696E674974656D00</field>
+        <field hash="25368426" type="BinHex">A3D0714B</field>
+        <field hash="2C20AE3C" type="Int32" templateValue="NameId" />
+        <field hash="BB4F90D2" type="BinHex">00000000</field>
+        <field hash="0F1A5235" type="BinHex">00000000</field>
+        <field hash="0D80103A" type="BinHex">00000000</field>
+        <field hash="EA5ECCEC" type="BinHex">00000000</field>
+        <field hash="FD03DE96" type="BinHex">00000000</field>
+        <field hash="ACEDB5CD" type="BinHex">00000000</field>
+        <field hash="78247BBC" type="BinHex">00000000</field>
+        <field hash="D366A5F6" type="String" templateValue="IconPath" />
+        <field hash="0008AB0C" type="BinHex">00000000</field>
+        <field hash="F58EC058" type="BinHex">00</field>
+        <field hash="B9CB8814" type="BinHex">00</field>
+        <field hash="D339018D" type="BinHex">00</field>
+        <field hash="D91C068C" type="BinHex">00</field>
+        <field hash="9678E3D6" type="BinHex">00000000</field>
+        <field hash="AB258E09" type="BinHex">6E6F6E6500</field>
+        <field hash="5957C8C7" type="BinHex">CF00907F</field>
+        <field hash="EDA554FF" type="BinHex">00000000</field>
+        <field hash="92954E8D" type="BinHex">00000000</field>
+        <field hash="A7056326" type="BinHex">FFFFFFFF</field>
+        <field hash="3C36F452" type="BinHex">00000000</field>
+        <field hash="EB90B51B" type="BinHex">00000000</field>
+        <field hash="D81CBDFC" type="BinHex">FFFFFFFF</field>
+        <field hash="C6F72FC2" type="BinHex">FFFFFFFF</field>
+        <field hash="9D0BCEA4" type="BinHex">00</field>
+        <field hash="1D0C3F45" type="BinHex">00</field>
+        <field hash="44D51AEB" type="BinHex">00</field>
+        <field hash="38696C28" type="BinHex">01</field>
+        <field hash="AAB4ED09" type="BinHex">00</field>
+        <field hash="7B29FF4E" type="BinHex">00</field>
+        <field hash="E4FA24C8" type="BinHex">00</field>
+        <field hash="C4B7927E" type="BinHex">FFFFFFFF</field>
+        <field hash="7D374377" type="BinHex">00</field>
+        <field hash="5D54C877" type="BinHex">00000000</field>
+        <field hash="260F51E0" type="BinHex">00</field> <!--?-->
+        <field hash="AA58921D" type="BinHex">00000000</field>
+        <field hash="A3DEEAC6" type="BinHex">FFFFFFFF</field>
+        <field hash="49CFDFB9" type="BinHex">00</field>
+        <object hash="C4F94FD2">
+          <field hash="BD865AD7" type="BinHex">6B84ACF256072000</field>
+        </object>
+        <object hash="C246D853">
+          <field hash="561D06B4" type="BinHex">0000000000000000</field>
+        </object>
+        <object hash="A0536131">
+          <field hash="561D06B4" type="BinHex">0000000000000000</field>
+        </object>
+        <object hash="DCDE079E">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+          <field hash="CB3EDEF1" type="BinHex">494974656D44657363726970746F7200</field>
+          <field hash="57C4D76B" type="BinHex">D5AC0C7A</field>
+        </object>
+        <object hash="A95778BC">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+        </object>
+        <object hash="2980449A" />
+        <object hash="541E4329">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+        </object>
+        <object hash="942B4B90">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+          <field hash="57C4D76B" type="BinHex">4347616D6545636F6E6F6D79436F6C6F7253776174636800</field>
+        </object>
+        <object hash="97E66757">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+          <field hash="57C4D76B" type="BinHex">4357696B694974656D00</field>
+        </object>
+        <object hash="1A883239">
+          <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+          <field hash="57C4D76B" type="BinHex">43496E74656C47726F757000</field>
+        </object>
+        <object hash="584F49E5" />
+        <object hash="A6DFCF1A">
+          <field hash="788E5BF2" type="BinHex">01</field>
+          <field hash="165CC640" type="BinHex">00</field>
+          <field hash="63A95A7A" type="BinHex">00</field>
+          <field hash="DDB68C4B" type="BinHex">00</field>
+          <field hash="04B6E882" type="BinHex">00</field>
+          <field hash="9959E5BF" type="BinHex">00</field>
+          <field hash="05E142D7" type="BinHex">00</field>
+          <field hash="C4E5A4DB" type="BinHex">00</field>
+          <field hash="C00EA784" type="BinHex">00</field>
+          <field hash="27433AE2" type="BinHex">FFFFFFFF</field>
+          <field hash="0C64C49B" type="BinHex">00</field>
+          <field hash="B2D2B918" type="BinHex">00000000</field>
+          <field hash="34339A63" type="BinHex">00</field>
+          <field hash="021A0B5C" type="BinHex">00</field>
+          <field hash="8F1ACC50" type="BinHex">00</field>
+          <object hash="B02C406D">
+            <object hash="5F9C532D" />
+            <object hash="751F7B31" />
+          </object>
+          <object hash="CF9D2FAD">
+            <object hash="E5F87B7C">
+              <field hash="4E6FAD63" type="BinHex">00000000</field>
+            </object>
+            <object hash="C2DAC464">
+              <field hash="4E6FAD63" type="BinHex">00000000</field>
+            </object>
+            <object hash="47FD33A9">
+              <field hash="4E6FAD63" type="BinHex">00000000</field>
+            </object>
+          </object>
+          <object hash="4FF7A518">
+            <field hash="4E6FAD63" type="BinHex">00000000</field>
+          </object>
+          <object hash="040A32B4">
+            <field hash="764454B0" type="BinHex">7F7F7F7F</field>
+            <object hash="1601B980">
+              <field hash="F44A88C2" type="BinHex">00000000</field>
+            </object>
+            <object hash="0FB93AB0">
+              <field hash="F44A88C2" type="BinHex">00000000</field>
+            </object>
+            <object hash="F305745C">
+              <field hash="F44A88C2" type="BinHex">00000000</field>
+            </object>
+          </object>
+          <object hash="B651CF95" />
+          <object hash="B25905C7">
+            <field hash="BD865AD7" type="BinHex">0000000000000000</field>
+          </object>
+        </object>
+        <object hash="C1587501"> <!-- Attachments -->
+          <field hash="D6F06EF3" type="BinHex" templateValue="AttachmentType" />
+          <field hash="1588ED43" type="BinHex">FFFFFFFF</field>
+          <field hash="5205A809" type="BinHex">FFFFFFFF</field>
+          <field hash="F62019BD" type="BinHex">00000000</field>
+          <object hash="91B58830">
+            <field hash="561D06B4" type="BinHex" templateValue="WeaponId" />
+          </object>
+        </object>
+        <object hash="15E43C34">
+          <field hash="19D89DED" type="BinHex">00000000</field>
+          <field hash="2FF5BCEE" type="BinHex">00000000</field>
+          <field hash="0A5D7D61" type="BinHex">00000000</field>
+          <field hash="AEB7FAE1" type="BinHex">00000000</field>
+          <field hash="81620839" type="BinHex">00000000</field>
+          <field hash="B6235553" type="BinHex">00000000</field>
+          <field hash="55ADEB72" type="BinHex">00000000</field>
+        </object>
+        <object hash="30DA356E">
+          <field hash="5DB454A1" type="BinHex">00D08E4500E08D450000D142</field>
+          <field hash="32E428A5" type="BinHex">00000000000000000000B442</field>
+          <field hash="DD107A39" type="BinHex">FFFFFFFFFFFFFFFF</field>
+        </object>
+        <object hash="4004E0AD">
+          <object hash="D481BBBF">
+            <field hash="7F055B07" type="Int32" templateValue="BuyValue" />
+            <field hash="B89810D5" type="BinHex">00</field>
+            <object hash="ED23A784">
+              <field hash="BD865AD7" type="BinHex" templateValue="ShopType" />
+            </object>
+            <object hash="D9A17159">
+              <field hash="BD865AD7" type="BinHex" templateValue="TabFilter" />
+            </object>
+            <object hash="912BCD32">
+              <field hash="BD865AD7" type="BinHex" templateValue="GridFilter" />
+            </object>
+            <object hash="588734CD">
+              <field hash="561D06B4" type="BinHex">0000000000000000</field>
+            </object>
+          </object>
+        </object>
+        <object hash="463F2C27" />
+        <object hash="AD8E88F2">
+          <object hash="9B211199">
+            <field hash="0689054C" type="BinHex">FFFFFFFF</field>
+          </object>
+        </object>
+        <object hash="999EBBDC">
+          <field hash="42609C81" type="BinHex">00</field>
+        </object>
+        <object hash="94BD2104">
+          <field hash="296F328B" type="BinHex">01</field>
+        </object>
+        <object hash="A8CFBBAD">
+          <field hash="0B3A97A5" type="BinHex">00</field>
+          <field hash="D33FA40F" type="BinHex">00</field>
+        </object>
+        <object hash="5B0155AA">
+          <field hash="8BBE5EEE" type="BinHex">01</field>
+        </object>
+        <object hash="78A82337">
+          <field hash="D534B131" type="BinHex">00</field>
+          <field hash="3418FD3D" type="BinHex">00000000</field>
+        </object>
+        <object hash="9CE16284" />
+      </object>
+    </template>
+
+    <template id="ItemCollection">
+      <object hash="BF298A20">
+        <object hash="BF298A20">
+          <field hash="BD865AD7" type="Id64" templateValue="ID" />
+        </object>
+      </object>
+    </template>
+
+  </Templates>
+</InfoReplace>
